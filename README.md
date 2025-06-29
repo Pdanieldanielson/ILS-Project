@@ -1,6 +1,8 @@
 # ILS-Project
 This is a personal project I developed out of curiosity and desire to improve my data analytics skills.
 
+![ILS.DASHBOARD.OOPS](30090547.8_image.png)
+
 Final dashboard, cleaned dataset, cleaning process with annotations in python, all queries performed in SQL (SSMS), measures were created in DAX to illustrate the findings succintly within a dashboard in PowerBI.
 
 The data was downloaded free of charge from https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy/about_data and was provided by the Iowa Department of Revenue, Alcoholic Beverages.
